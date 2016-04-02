@@ -1,0 +1,7 @@
+pane	0	0	:..rpl-site-2014	0	:-	0	:/Users/chang/Sites/prpl-site-2014/dev	1	nvim	:nvim styles/style.scss
+pane	0	0	:..rpl-site-2014	0	:-	1	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:..rpl-site-2014	0	:-	2	:/Users/chang/Sites/prpl-site-2014	0	zsh	:
+pane	0	1	:vim	1	:*	0	:/Users/chang/Sites/api.prpl.rs/wp-content/plugins/json-api	1	nvim	:nvim controllers/prpl.php
+window	0	0	0	:-	74c8,133x105,0,0[133x72,0,0,0,133x32,0,73{66x32,0,73,1,66x32,67,73,2}]
+window	0	1	1	:*	9791,133x105,0,0,4
+state	0	

@@ -1,0 +1,12 @@
+pane	0	0	:..4/dev/scripts	0	:	0	:/Users/chang/Sites/prpl-site-2014/dev	1	nvim	:nvim styles/style.scss
+pane	0	0	:..4/dev/scripts	0	:	1	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:..4/dev/scripts	0	:	2	:/Users/chang/Sites/prpl-site-2014/dev/scripts	0	zsh	:
+pane	0	1	:..s/api.prpl.rs	0	:-	0	:/Users/chang/Sites/api.prpl.rs	1	zsh	:
+pane	0	1	:..s/api.prpl.rs	0	:-	1	:/Users/chang/Sites/api.prpl.rs	0	zsh	:
+pane	0	2	:heroku	1	:*	0	:/Users/chang/Sites/win	1	nvim	:nvim index.js
+pane	0	2	:heroku	1	:*	1	:/Users/chang/Sites/win	0	zsh	:
+pane	0	2	:heroku	1	:*	2	:/Users/chang/Sites/win	0	heroku-cli	:/Users/chang/.heroku/heroku-cli local:start
+window	0	0	0	:	da70,133x105,0,0[133x66,0,0,0,133x38,0,67{66x38,0,67,2,66x38,67,67,9}]
+window	0	1	0	:-	90a0,133x105,0,0[133x72,0,0,4,133x32,0,73,5]
+window	0	2	1	:*	bf65,133x105,0,0[133x52,0,0,13,133x26,0,53,14,133x25,0,80,12]
+state	0	

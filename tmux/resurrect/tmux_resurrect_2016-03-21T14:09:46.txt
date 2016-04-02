@@ -1,0 +1,8 @@
+pane	0	0	:..4/dev/scripts	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev/scripts	1	nvim	:nvim views/notes.html
+pane	0	0	:..4/dev/scripts	1	:*	1	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:..4/dev/scripts	1	:*	2	:/Users/chang/Sites/prpl-site-2014/dev/scripts	0	zsh	:
+pane	0	1	:..s/api.prpl.rs	0	:-	0	:/Users/chang/Sites/api.prpl.rs/wp-content	1	nvim	:nvim plugins/json-api/controllers/prpl.php
+pane	0	1	:..s/api.prpl.rs	0	:-	1	:/Users/chang/Sites/api.prpl.rs	0	zsh	:
+window	0	0	1	:*	0e1f,178x48,0,0[178x40,0,0,0,178x7,0,41{89x7,0,41,2,88x7,90,41,9}]
+window	0	1	0	:-	9d8e,178x48,0,0[178x33,0,0,4,178x14,0,34,5]
+state	0	

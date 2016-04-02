@@ -1,0 +1,18 @@
+pane	0	0	:..rpl-site-2014	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	0	zsh	:
+pane	0	0	:..rpl-site-2014	1	:*	1	:/Users/chang/Sites/prpl-site-2014/dev/styles	0	zsh	:
+pane	0	0	:..rpl-site-2014	1	:*	2	:/Users/chang/Sites/prpl-site-2014/dev	0	zsh	:
+pane	0	0	:..rpl-site-2014	1	:*	3	:/Users/chang/Sites/prpl-site-2014	1	zsh	:
+pane	0	1	:..s/api.prpl.rs	0	:-	0	:/Users/chang/Sites/api.prpl.rs/wp-content	0	nvim	:nvim plugins/json-api/controllers/prpl.php
+pane	0	1	:..s/api.prpl.rs	0	:-	1	:/Users/chang/Sites/api.prpl.rs	1	zsh	:
+pane	2	0	:webpack-dev-server	1	:*	0	:/Users/chang/Sites/win.react	1	nvim	:nvim build/index.html
+pane	2	0	:webpack-dev-server	1	:*	1	:/Users/chang/Sites/win.react/src/js	0	zsh	:
+pane	2	0	:webpack-dev-server	1	:*	2	:/Users/chang/Sites/win.react	0	node	:node /usr/local/bin/webpack-dev-server --inline --hot --content-base build
+pane	2	0	:webpack-dev-server	1	:*	3	:/Users/chang/Sites/win.react	0	node	:gulp  
+pane	2	1	:~/Sites	0	:-	0	:/Users/chang/Sites/react-tutorial-master	1	nvim	:nvim public/index.html
+pane	2	1	:~/Sites	0	:-	1	:/Users/chang/Sites	0	zsh	:
+pane	2	1	:~/Sites	0	:-	2	:/Users/chang/Sites/react-tutorial-master	0	zsh	:
+window	0	0	1	:*	4510,133x99,0,0[133x54,0,0,0,133x24,0,55,24,133x19,0,80{66x19,0,80,9,66x19,67,80,42}]
+window	0	1	0	:-	2332,133x99,0,0[133x58,0,0,4,133x40,0,59,5]
+window	2	0	1	:*	c351,178x46,0,0{120x46,0,0,32,57x46,121,0[57x21,121,0,48,57x15,121,22,38,57x8,121,38,28]}
+window	2	1	0	:-	74e7,178x46,0,0[178x40,0,0,43,178x2,0,41,45,178x2,0,44,44]
+state	2	

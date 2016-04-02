@@ -1,0 +1,8 @@
+pane	0	0	:WIN	0	:-	0	:/Users/chang/Sites/win	1	zsh	:
+pane	0	0	:WIN	0	:-	1	:/Users/chang/Sites	0	zsh	:
+pane	0	0	:WIN	0	:-	2	:/Users/chang/Sites/win	0	zsh	:
+pane	0	0	:WIN	0	:-	3	:/Users/chang/Sites/win	0	zsh	:
+pane	0	1	:git	1	:*	0	:/Users/chang/Sites/developer-toolbox	1	git	:/Library/Developer/CommandLineTools/usr/bin/git diff HEAD HEAD^
+window	0	0	0	:-	924e,133x105,0,0[133x69,0,0,0,133x13,0,70,5,133x21,0,84{65x21,0,84,3,67x21,66,84,4}]
+window	0	1	1	:*	9794,133x105,0,0,7
+state	0	

@@ -1,0 +1,14 @@
+pane	0	0	:WIN	0	:	0	:/Users/chang/Sites/win	1	zsh	:
+pane	0	0	:WIN	0	:	1	:/Users/chang/Sites	0	zsh	:
+pane	0	0	:WIN	0	:	2	:/Users/chang/Sites/win	0	zsh	:
+pane	0	0	:WIN	0	:	3	:/Users/chang/Sites/win	0	zsh	:
+pane	0	1	:..ucecon/assets	0	:-	0	:/Users/chang/Sites/ouc-econ.dev/wp-content/themes/oucecon	0	nvim	:nvim assets/gulpfile.js
+pane	0	1	:..ucecon/assets	0	:-	1	:/Users/chang/Sites/ouc-econ.dev/wp-content/themes/oucecon/assets	1	zsh	:
+pane	0	2	:..visualization	1	:*	0	:/Users/chang/Sites/df001-repo-visualization	1	nvim	:nvim public/css/sass/components/_stats.scss
+pane	0	2	:..visualization	1	:*	1	:/Users/chang/Sites/df001-repo-visualization/public/js/vendor	0	zsh	:
+pane	0	2	:..visualization	1	:*	2	:/Users/chang/Sites/df001-repo-visualization	0	heroku-cli	:/Users/chang/.heroku/heroku-cli local:start
+pane	0	2	:..visualization	1	:*	3	:/Users/chang/Sites/df001-repo-visualization	0	zsh	:
+window	0	0	0	:	924e,133x105,0,0[133x69,0,0,0,133x13,0,70,5,133x21,0,84{65x21,0,84,3,67x21,66,84,4}]
+window	0	1	0	:-	5b52,133x105,0,0[133x79,0,0,10,133x25,0,80,11]
+window	0	2	1	:*	139d,133x105,0,0[133x66,0,0,13,133x25,0,67,15,133x12,0,93{66x12,0,93,12,66x12,67,93,16}]
+state	0	

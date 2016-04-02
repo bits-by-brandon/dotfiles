@@ -1,0 +1,9 @@
+pane	0	0	:WIN	0	:-	0	:/Users/chang/Sites/win	1	zsh	:
+pane	0	0	:WIN	0	:-	1	:/Users/chang/Sites	0	zsh	:
+pane	0	0	:WIN	0	:-	2	:/Users/chang/Sites/win	0	zsh	:
+pane	0	0	:WIN	0	:-	3	:/Users/chang/Sites/win	0	zsh	:
+pane	0	1	:..ucecon/assets	1	:*	0	:/Users/chang/Sites/ouc-econ.dev/wp-content/themes/oucecon	0	nvim	:nvim assets/gulpfile.js
+pane	0	1	:..ucecon/assets	1	:*	1	:/Users/chang/Sites/ouc-econ.dev/wp-content/themes/oucecon/assets	1	zsh	:
+window	0	0	0	:-	0353,178x48,0,0[178x42,0,0,0,178x2,0,43,5,178x2,0,46{88x2,0,46,3,89x2,89,46,4}]
+window	0	1	1	:*	12c6,178x48,0,0[178x35,0,0,10,178x12,0,36,11]
+state	0	

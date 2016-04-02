@@ -1,0 +1,10 @@
+pane	0	0	:WIN	0	:-	0	:/Users/chang/Sites/win	1	zsh	:
+pane	0	0	:WIN	0	:-	1	:/Users/chang/Sites	0	zsh	:
+pane	0	0	:WIN	0	:-	2	:/Users/chang/Sites/win	0	zsh	:
+pane	0	0	:WIN	0	:-	3	:/Users/chang/Sites/win	0	zsh	:
+pane	0	1	:vagrant	1	:*	0	:/Users/chang/Sites/ouc-econ.dev/wp-content	0	less	:less Vagrantfile
+pane	0	1	:vagrant	1	:*	1	:/Users/chang/Sites/ouc-econ.dev/wp-content	0	less	:less README.md
+pane	0	1	:vagrant	1	:*	2	:/Users/chang/Sites/ouc-econ.dev/wp-content	1	vagrant	:vagrant ssh
+window	0	0	0	:-	924e,133x105,0,0[133x69,0,0,0,133x13,0,70,5,133x21,0,84{65x21,0,84,3,67x21,66,84,4}]
+window	0	1	1	:*	5a7e,133x105,0,0[133x57,0,0,6,133x26,0,58,7,133x20,0,85,9]
+state	0	

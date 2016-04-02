@@ -1,0 +1,9 @@
+pane	0	0	:..rpl-site-2014	0	:-	0	:/Users/chang/Sites/prpl-site-2014/dev	1	nvim	:nvim views/notes.html
+pane	0	0	:..rpl-site-2014	0	:-	1	:/Users/chang/Sites/prpl-site-2014	0	zsh	:
+pane	0	0	:..rpl-site-2014	0	:-	2	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:..rpl-site-2014	0	:-	3	:/Users/chang/Sites/prpl-site-2014/dev/scripts	0	zsh	:
+pane	0	1	:root@198.101.205.62	1	:*	0	:/Users/chang/Sites/api.prpl.rs/wp-content	1	nvim	:nvim plugins/json-api/controllers/prpl.php
+pane	0	1	:root@198.101.205.62	1	:*	1	:/Users/chang/Sites/api.prpl.rs	0	ssh	:ssh root@198.101.205.62
+window	0	0	0	:-	4b99,133x105,0,0[133x61,0,0,0,133x26,0,62,17,133x16,0,89{66x16,0,89,2,66x16,67,89,9}]
+window	0	1	1	:*	90a0,133x105,0,0[133x72,0,0,4,133x32,0,73,5]
+state	0	

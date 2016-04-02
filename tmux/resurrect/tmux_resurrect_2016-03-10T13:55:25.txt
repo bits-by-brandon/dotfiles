@@ -1,0 +1,6 @@
+pane	0	0	:~/Sites/win	1	:*	0	:/Users/chang/Sites/win	1	nvim	:nvim index.js
+pane	0	0	:~/Sites/win	1	:*	1	:/Users/chang/Sites/win	0	zsh	:
+pane	0	0	:~/Sites/win	1	:*	2	:/Users/chang/Sites/win	0	node	:gulp  
+pane	0	0	:~/Sites/win	1	:*	3	:/Users/chang/Sites/win/src/scss/modules	0	zsh	:
+window	0	0	1	:*	d4e8,133x105,0,0[133x77,0,0,0,133x27,0,78{66x27,0,78[66x13,0,78,3,66x13,0,92,4],66x27,67,78,2}]
+state	0	

@@ -1,0 +1,17 @@
+pane	0	0	:WIN	0	:	0	:/Users/chang/Sites/win	1	zsh	:
+pane	0	0	:WIN	0	:	1	:/Users/chang/Sites	0	zsh	:
+pane	0	0	:WIN	0	:	2	:/Users/chang/Sites/win	0	zsh	:
+pane	0	0	:WIN	0	:	3	:/Users/chang/Sites/win	0	zsh	:
+pane	0	1	:..ucecon/assets	0	:	0	:/Users/chang/Sites/ouc-econ.dev/wp-content/themes/oucecon	0	nvim	:nvim assets/gulpfile.js
+pane	0	1	:..ucecon/assets	0	:	1	:/Users/chang/Sites/ouc-econ.dev/wp-content/themes/oucecon/assets	1	zsh	:
+pane	0	2	:..visualization	0	:-	0	:/Users/chang/Sites/df001-repo-visualization	1	nvim	:nvim public/css/sass/components/_stats.scss
+pane	0	2	:..visualization	0	:-	1	:/Users/chang/Sites/df001-repo-visualization	0	zsh	:
+pane	0	2	:..visualization	0	:-	2	:/Users/chang/Sites/df001-repo-visualization/public/js/src	0	zsh	:
+pane	0	2	:..visualization	0	:-	3	:/Users/chang/Sites/df001-repo-visualization	0	heroku-cli	:/Users/chang/.heroku/heroku-cli local:start
+pane	0	3	:..ant-institute	1	:*	0	:/Users/chang/Sites/fh-transplant-institute	0	nvim	:nvim index.php
+pane	0	3	:..ant-institute	1	:*	1	:/Users/chang/Sites/fh-transplant-institute	1	zsh	:
+window	0	0	0	:	0353,178x48,0,0[178x42,0,0,0,178x2,0,43,5,178x2,0,46{88x2,0,46,3,89x2,89,46,4}]
+window	0	1	0	:	897e,178x48,0,0[178x45,0,0,10,178x2,0,46,11]
+window	0	2	0	:-	cf1b,178x48,0,0[178x42,0,0,13,178x2,0,43,16,178x2,0,46{89x2,0,46,15,88x2,90,46,12}]
+window	0	3	1	:*	ba8f,178x48,0,0[178x39,0,0,17,178x8,0,40,18]
+state	0	

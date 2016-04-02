@@ -1,0 +1,13 @@
+pane	0	0	:vim	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	0	nvim	:nvim
+pane	0	0	:vim	1	:*	1	:	1	zsh	:sudo vim /etc/hosts
+pane	0	0	:vim	1	:*	2	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	1	:..s/api.prpl.rs	0	:-	0	:/Users/chang/Sites/api.prpl.rs/wp-content	0	nvim	:nvim plugins/json-api/controllers/prpl.php
+pane	0	1	:..s/api.prpl.rs	0	:-	1	:/Users/chang/Sites/api.prpl.rs	1	zsh	:
+pane	2	0	:~/Sites/win	1	:*	0	:/Users/chang/Sites/win	0	nvim	:nvim webpack.config.js
+pane	2	0	:~/Sites/win	1	:*	1	:/Users/chang/Sites/win	0	zsh	:
+pane	2	0	:~/Sites/win	1	:*	2	:/Users/chang/Sites/win	0	zsh	:
+pane	2	0	:~/Sites/win	1	:*	3	:/Users/chang/Sites/win	1	zsh	:
+window	0	0	1	:*	7a50,133x99,0,0[133x54,0,0,0,133x27,0,55,9,133x16,0,83,24]
+window	0	1	0	:-	2332,133x99,0,0[133x58,0,0,4,133x40,0,59,5]
+window	2	0	1	:*	8887,133x99,0,0[133x43,0,0,25,133x28,0,44,38,133x26,0,73{66x26,0,73,32,66x26,67,73,28}]
+state	0	

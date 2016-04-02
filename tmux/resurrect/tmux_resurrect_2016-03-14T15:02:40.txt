@@ -1,0 +1,4 @@
+pane	0	0	:..site-2014/dev	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	0	nvim	:nvim ../.gitignore
+pane	0	0	:..site-2014/dev	1	:*	1	:/Users/chang/Sites/prpl-site-2014/dev	1	zsh	:
+window	0	0	1	:*	9096,133x105,0,0[133x72,0,0,0,133x32,0,73,1]
+state	0	

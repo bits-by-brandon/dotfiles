@@ -1,0 +1,5 @@
+pane	0	0	:nodemon	1	:*	0	:/Users/chang/Sites/win	1	nvim	:nvim index.js
+pane	0	0	:nodemon	1	:*	1	:/Users/chang/Sites/win	0	node	:node /usr/local/bin/nodemon index.js
+pane	0	0	:nodemon	1	:*	2	:/Users/chang/Sites/win	0	zsh	:
+window	0	0	1	:*	2f1f,133x105,0,0[133x77,0,0,0,133x27,0,78{66x27,0,78,3,66x27,67,78,2}]
+state	0	

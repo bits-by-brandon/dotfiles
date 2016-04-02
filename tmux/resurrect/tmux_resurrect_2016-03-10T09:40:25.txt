@@ -1,0 +1,4 @@
+pane	0	0	:~/Sites/win	1	:*	0	:/Users/chang/Sites/win	0	nvim	:nvim index.js
+pane	0	0	:~/Sites/win	1	:*	1	:/Users/chang/Sites/win	1	zsh	:
+window	0	0	1	:*	dd17,133x105,0,0[133x77,0,0,0,133x27,0,78,2]
+state	0	

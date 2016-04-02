@@ -1,0 +1,8 @@
+pane	0	0	:..rpl-site-2014	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	1	nvim	:nvim styles/style.scss
+pane	0	0	:..rpl-site-2014	1	:*	1	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:..rpl-site-2014	1	:*	2	:/Users/chang/Sites/prpl-site-2014	0	zsh	:
+pane	0	1	:..s/api.prpl.rs	0	:-	0	:/Users/chang/Sites/api.prpl.rs	1	nvim	:nvim wp-config-local.php
+pane	0	1	:..s/api.prpl.rs	0	:-	1	:/Users/chang/Sites/api.prpl.rs	0	zsh	:
+window	0	0	1	:*	247e,133x104,0,0[133x71,0,0,0,133x32,0,72{66x32,0,72,1,66x32,67,72,2}]
+window	0	1	0	:-	689f,133x104,0,0[133x71,0,0,4,133x32,0,72,5]
+state	0	

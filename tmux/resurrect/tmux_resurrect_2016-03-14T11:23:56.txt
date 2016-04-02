@@ -1,0 +1,5 @@
+pane	0	0	:gulp	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	0	nvim	:nvim views/case-studies.html
+pane	0	0	:gulp	1	:*	1	:/Users/chang/Sites/prpl-site-2014	1	zsh	:
+pane	0	0	:gulp	1	:*	2	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+window	0	0	1	:*	bcc9,133x105,0,0[133x82,0,0,0,133x22,0,83{76x22,0,83,1,56x22,77,83,3}]
+state	0	

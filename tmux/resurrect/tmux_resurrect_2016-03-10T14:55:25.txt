@@ -1,0 +1,5 @@
+pane	0	0	:nodemon	1	:*	0	:/Users/chang/Sites/win	1	nvim	:nvim index.js
+pane	0	0	:nodemon	1	:*	1	:/Users/chang/Sites/win	0	node	:node /usr/local/bin/nodemon index.js
+pane	0	0	:nodemon	1	:*	2	:/Users/chang/Sites/win	0	node	:gulp  
+window	0	0	1	:*	f737,178x48,0,0[178x34,0,0,0,178x13,0,35{88x13,0,35,3,89x13,89,35,4}]
+state	0	

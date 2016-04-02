@@ -1,0 +1,6 @@
+pane	0	0	:nodemon	1	:*	0	:/Users/chang/Sites/win	1	nvim	:nvim index.js
+pane	0	0	:nodemon	1	:*	1	:/Users/chang/Sites/win	0	node	:node /usr/local/bin/nodemon index.js
+pane	0	0	:nodemon	1	:*	2	:/Users/chang/Sites/win	0	node	:gulp  
+pane	0	0	:nodemon	1	:*	3	:/Users/chang/Sites/win/src/scss/modules	0	zsh	:
+window	0	0	1	:*	f588,133x105,0,0[133x67,0,0,0,133x37,0,68{66x37,0,68[66x24,0,68,3,66x12,0,93,4],66x37,67,68,2}]
+state	0	

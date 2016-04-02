@@ -1,0 +1,5 @@
+pane	0	0	:vagrant	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	1	nvim	:nvim styles/style.scss
+pane	0	0	:vagrant	1	:*	1	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:vagrant	1	:*	2	:/Users/chang/Sites/prpl-site-2014/dev	0	vagrant	:vagrant ssh
+window	0	0	1	:*	f1e9,178x48,0,0[178x43,0,0,0,178x4,0,44{89x4,0,44,1,88x4,90,44,2}]
+state	0	

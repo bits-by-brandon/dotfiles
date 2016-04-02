@@ -1,0 +1,10 @@
+pane	0	0	:..rpl-site-2014	0	:-	0	:/Users/chang/Sites/prpl-site-2014/dev	1	nvim	:nvim styles/style.scss
+pane	0	0	:..rpl-site-2014	0	:-	1	:/Users/chang/Sites/prpl-site-2014	0	node	:gulp  
+pane	0	0	:..rpl-site-2014	0	:-	2	:/Users/chang/Sites/prpl-site-2014	0	zsh	:
+pane	0	1	:..s/api.prpl.rs	0	:	0	:/Users/chang/Sites/api.prpl.rs	0	nvim	:nvim wp-config-local.php
+pane	0	1	:..s/api.prpl.rs	0	:	1	:/Users/chang/Sites/api.prpl.rs	1	zsh	:
+pane	0	2	:brandon@50.88.178.157	1	:*	0	:/Users/chang/Sites/prpl-site-2014/dev	1	ssh	:ssh brandon@50.88.178.157 -p 2288
+window	0	0	0	:-	247e,133x104,0,0[133x71,0,0,0,133x32,0,72{66x32,0,72,1,66x32,67,72,2}]
+window	0	1	0	:	689f,133x104,0,0[133x71,0,0,4,133x32,0,72,5]
+window	0	2	1	:*	9394,133x104,0,0,7
+state	0	
